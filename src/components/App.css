@@ -65,7 +65,7 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
-  background-color: #000; /* Fondo negro para todo */
+  background-color: rgba(0, 0, 0, 0.87); /* Fondo negro con opacidad */
 }
 
 .contenedor {
