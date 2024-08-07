@@ -4,7 +4,7 @@ import Page2 from "./Page2";
 import Page3 from "./Page3";
 import Page4 from "./Page4";
 import Page5 from "./Page5";
-import Page5C from "./Page5C";
+
 import Page6 from "./Page6";
 import Page7 from "./Page7";
 import Playlist from "./Playlist";
@@ -31,9 +31,7 @@ const Page = () => {
             <div className="container">
                 <Page5 />
             </div>
-            <div className="container">
-                <Page5C />
-            </div>
+
             <div className="container">
                 <Page6 />
             </div>

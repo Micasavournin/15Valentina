@@ -1,7 +1,7 @@
 
 
 const Page3 = () => {
-    const locationUrl2 = "https://maps.app.goo.gl/J7dK1AnULB91aQBT7";
+    const locationUrl2 = "https://g.co/kgs/9vJ5RF9";
     return (
         <div className="contenedor">
             <img 

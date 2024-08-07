@@ -20,7 +20,7 @@ const Playlist = () => {
             <div className="botonMusica" style={{ position: 'absolute', top: '6%', left: '89%', transform: 'translate(-50%, -50%)' }}>
 
                 <audio
-        src="https://firebasestorage.googleapis.com/v0/b/tarjeta-invitacion-2f4f0.appspot.com/o/My%20Heart%20Will%20Go%20On%20(Titanic)%20Taylor%20Davis%20-%20Violin%20Cover.mp4?alt=media&token=01181691-39a6-4078-9a1e-440d7180612e"
+        src="https://firebasestorage.googleapis.com/v0/b/tarjeta-invitacion-2f4f0.appspot.com/o/Y2meta.app%20-%20Katy%20Perry%20-%20Firework%20(Lyrics)%20(128%20kbps).mp3?alt=media&token=79fd8b83-8919-4c74-a875-b00ab8be2f5e"
         ref={audioRef}
         preload="metadata"
       />

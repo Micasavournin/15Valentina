@@ -7,7 +7,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background:transparent
+  background:transparent;
+  /* background-color: rgba(0, 0, 0, 0.87); */
 }
 
 .font {
@@ -44,7 +45,7 @@
 .botonLlegar {
   background-color: #71EAEA;
   height: 48px;
-  width: 160px;
+  width: 185px;
 }
 
 .botonInspo {
